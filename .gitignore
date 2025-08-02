@@ -2,3 +2,7 @@
 
 # data
 *.tsv
+
+# notebook artifacts
+.ipynb_checkpoints
+.virtual_documents
